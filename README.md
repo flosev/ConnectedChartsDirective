@@ -5,7 +5,7 @@ version 0.11.1.
 
 ## Dependencies
 
-Run "npm install" and "bower install"
+Run `npm install` and `bower install`
 
 ## Build & development
 
@@ -15,7 +15,7 @@ Run `grunt build` for building and `grunt serve` for preview.
 
 Running `grunt test` will run the unit tests with karma.
 
-## 
+## Description
 
 Angular directive to wrap two connected dc.js charts, visualising data from the attached csv file.
 First chart is a pie chart, every pie displaying sum of selected parameter (one of: markdown, revenues, margin) per category, in a selected date range.
